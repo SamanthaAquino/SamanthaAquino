@@ -21,7 +21,7 @@ Full-Stack Developer
 - 🔭 Trabalhando na **Cielo**
 - 🌱 Aprendendo **React e SAP (SCP)**
 - :herb: Proximos Aprendizados: **Docker, Heroku, MongoDB, Python e Flutter**
-- :mailbox: Contao: **samantha_aquino@outlook.com**
+- :mailbox: Contato: **samantha_aquino@outlook.com**
 - :page_facing_up: Curriculo: 
 
 <h2> About me: </h2>
