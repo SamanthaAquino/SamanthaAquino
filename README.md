@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-- :page_facing_up: Curriculo: 
 -->
 
 <h2 align = "center"> Hi there 👋! I'm Samantha Aquino </h2>
@@ -20,9 +21,9 @@ Full-Stack Developer
 
 - 🔭 Trabalhando na **Cielo**
 - 🌱 Aprendendo **React e SAP (SCP)**
-- :herb: Proximos Aprendizados: **Docker, Heroku, MongoDB, Python e Flutter**
+- :herb: Proximos Aprendizados: **Docker, Python e Flutter**
 - :mailbox: Contato: **samantha_aquino@outlook.com**
-- :page_facing_up: Curriculo: 
+
 
 <h2> About me: </h2>
 
@@ -30,7 +31,8 @@ Full-Stack Developer
 <a href="https://www.linkedin.com/in/samantha-aquino/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> 
   
 <h2> Linguagens e Skills: </h2>
- 
+
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="40" height="40"/></a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="Bash" width="40" height="40"/></a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/></a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/></a>
