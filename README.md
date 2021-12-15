@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 Full-Stack Developer
 
 - 🔭 Trabalhando na **Cielo**
-- 🌱 Aprendendo **React e SAP (SCP)**
-- :herb: Proximos Aprendizados: **Docker, Python e Flutter**
+- :herb: Proximos Aprendizados: **Docker e Pipelines de CI/CD**
 - :mailbox: Contato: **samantha_aquino@outlook.com**
 
 
